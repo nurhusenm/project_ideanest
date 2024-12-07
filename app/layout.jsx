@@ -5,7 +5,7 @@ import Provider from '@components/Provider'
 
 export const metadata = {
     title: "IdeaNest",
-    description: "discover and share and create Ai prompt"
+    description: "discover and share  Ai prompt"
 }
 
 export default function RootLayout({ children }) {
